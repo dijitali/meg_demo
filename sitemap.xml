@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://meganwhiting.co.uk/2019/05/lets-talk-wedding-poetry/</loc>
-    <lastmod>2019-05-28T13:20:00+00:00</lastmod>
+    <loc>https://meganwhiting.co.uk/2019/09/common-mistakes-made-by-writers/</loc>
+    <lastmod>2019-09-28T12:14:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://meganwhiting.co.uk/</loc>
+    <lastmod>2019-09-28T12:14:06+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://meganwhiting.co.uk/2019/05/lets-talk-wedding-poetry/</loc>
     <lastmod>2019-05-28T13:20:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
