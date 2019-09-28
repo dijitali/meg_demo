@@ -67,7 +67,8 @@
   
   <url>
     <loc>https://meganwhiting.co.uk/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -84,7 +85,8 @@
   
   <url>
     <loc>https://meganwhiting.co.uk/tags/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
